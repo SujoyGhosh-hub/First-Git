@@ -1,0 +1,6 @@
+git --version: To check the git version
+
+git status: To check the current git status
+
+git init: to initialized this repository as git repository
+
